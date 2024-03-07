@@ -9,7 +9,7 @@ Example: JSON data looks like:
 {'1234243132', 3405, '2021-01-23'} ] 
 
 
-Prequisites: 
+Prerequisites: 
 Make sure kafka is up and running and accessible
 Update the Brokers address in code 
 brokers = "broker1.test.corp.com:9092,broker2.test.corp.com:9092,broker3.test.corp.com:9092"
